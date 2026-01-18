@@ -1,11 +1,3 @@
-<div align="center">
-<a href="https://hlop3z.github.io/portfolio">                                                                                                                              
-    <img src="assets/logo.png" alt="Logo" width="120"/>
-</a>
-</div>
-
----
-
 # Hector M. Lopez
   
 **Backend Engineer** | Python | Go | Rust | TypeScript
@@ -45,3 +37,12 @@ Backend engineer interested in developer tooling, APIs, and databases. I try to 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hlop3z.github.io-blue?style=flat-square)](https://hlop3z.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-hlop3z-181717?style=flat-square&logo=github)](https://github.com/hlop3z)
+
+---
+
+<div align="center">
+<a href="https://hlop3z.github.io/portfolio">                                                                                                                              
+    <img src="assets/logo.png" alt="Logo" width="120"/>
+</a>
+</div>
+

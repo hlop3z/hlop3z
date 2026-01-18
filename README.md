@@ -1,5 +1,13 @@
-# Hector M. Lopez
+<div align="center">
+<a href="https://hlop3z.github.io/portfolio">                                                                                                                              
+    <img src="assets/logo.png" alt="Logo" width="120"/>
+</a>
+</div>
 
+---
+
+# Hector M. Lopez
+  
 **Backend Engineer** | Python | Go | Rust | TypeScript
 
 Backend engineer interested in developer tooling, APIs, and databases. I try to write code that's easy to understand and maintain.

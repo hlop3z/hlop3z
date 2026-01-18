@@ -11,10 +11,10 @@ Backend engineer interested in developer tooling, APIs, and databases. I try to 
 | Project                                                          | Description                                                | Tech       |
 | ---------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [astroladb](https://github.com/hlop3z/astroladb)                 | Schema-first migrations. Write once, export everywhere.    | Go         |
-| [fastberry](https://github.com/hlop3z/fastberry)                 | Production GraphQL APIs with FastAPI + Strawberry          | Python     |
-| [spoc](https://github.com/hlop3z/spoc)                           | Meta-framework for building extensible Python applications | Python     |
 | [dinja](https://github.com/hlop3z/dinja)                         | MDX rendering powered by Rust + WASM                       | Rust       |
+| [spoc](https://github.com/hlop3z/spoc)                           | Meta-framework for building extensible Python applications | Python     |
 | [dbcontroller](https://github.com/hlop3z/dbcontroller)           | Lightweight Python database controller                     | Python     |
+| [fastberry](https://github.com/hlop3z/fastberry)                 | Production GraphQL APIs with FastAPI + Strawberry          | Python     |
 | [coding-algorithms](https://github.com/hlop3z/coding-algorithms) | Algorithm implementations and coding challenges            | TypeScript |
 
 ---

@@ -1,5 +1,5 @@
 # Hector M. Lopez
-  
+
 **Backend Engineer** | Python | Go | Rust | TypeScript
 
 Backend engineer interested in developer tooling, APIs, and databases. I try to write code that's easy to understand and maintain.
@@ -11,11 +11,9 @@ Backend engineer interested in developer tooling, APIs, and databases. I try to 
 | Project                                                          | Description                                                | Tech       |
 | ---------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [astroladb](https://github.com/hlop3z/astroladb)                 | Schema-first migrations. Write once, export everywhere.    | Go         |
-| [dinja](https://github.com/hlop3z/dinja)                         | MDX rendering powered by Rust                              | Rust       |
 | [spoc](https://github.com/hlop3z/spoc)                           | Meta-framework for building extensible Python applications | Python     |
-| [dbcontroller](https://github.com/hlop3z/dbcontroller)           | Lightweight Python database controller                     | Python     |
-| [fastberry](https://github.com/hlop3z/fastberry)                 | GraphQL APIs with FastAPI + Strawberry                     | Python     |
-| [coding-algorithms](https://github.com/hlop3z/coding-algorithms) | Algorithm implementations and coding challenges            | TypeScript |
+| [dinja](https://github.com/hlop3z/dinja)                         | MDX rendering powered by Rust                              | Rust       |
+| [coding-algorithms](https://github.com/hlop3z/coding-algorithms) | Algorithm implementations and coding notes                 | TypeScript |
 
 ---
 
@@ -45,4 +43,3 @@ Backend engineer interested in developer tooling, APIs, and databases. I try to 
     <img src="assets/logo.png" alt="Logo" width="120"/>
 </a>
 </div>
-

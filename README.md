@@ -33,7 +33,7 @@ Backend engineer interested in developer tooling, APIs, and databases. I try to 
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hlop3z-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hlop3z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hector_Lopez-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hector-lopez-it)
 [![GitHub](https://img.shields.io/badge/GitHub-hlop3z-181717?style=flat-square&logo=github)](https://github.com/hlop3z)
 
 ---
